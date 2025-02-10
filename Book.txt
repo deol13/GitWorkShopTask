@@ -1,0 +1,5 @@
+Name of the book:
+Author:
+Release date:
+Type of book:
+Intro:
